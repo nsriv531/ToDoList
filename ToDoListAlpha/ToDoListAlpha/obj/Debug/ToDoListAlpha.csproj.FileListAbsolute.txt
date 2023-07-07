@@ -1,0 +1,11 @@
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\bin\Debug\ToDoListAlpha.exe.config
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\bin\Debug\ToDoListAlpha.exe
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\bin\Debug\ToDoListAlpha.pdb
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.csproj.AssemblyReference.cache
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.Form1.resources
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.Properties.Resources.resources
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.csproj.GenerateResource.cache
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.csproj.CoreCompileInputs.cache
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.exe
+C:\Users\sriva\source\repos\ToDoListAlpha\ToDoListAlpha\obj\Debug\ToDoListAlpha.pdb
